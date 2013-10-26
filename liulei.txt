@@ -1,7 +1,0 @@
-±¦±´
-I 
-<<<<<<< HEAD
-love
-you
-=======
->>>>>>> parent of 3a110d4... love
